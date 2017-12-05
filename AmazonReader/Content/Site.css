@@ -36,3 +36,36 @@ input[type="select"] {
         padding: 0;
     }
 }
+
+.Header {
+    width:20%;
+    display:inline-block;
+    margin: 10px 10px 10px 0px;
+}
+.Header ul {
+    padding:0;
+}
+.Header ul  {
+    list-style-type: none;
+    padding: 10px 25px 10px 25px;
+    color: rgb(0, 102, 192);
+}
+.Header ul :hover {
+    color: blue;
+    background: aliceblue;
+}
+.Header ul  {
+    text-decoration: none;
+    color: inherit;
+}
+
+.h3 > label {
+    background-color:#158cba;
+    font-weight: bold;
+}
+
+h3, .h3 {
+    font-size: 24px;
+        color: #158cba;
+        font-weight: bold;
+}
