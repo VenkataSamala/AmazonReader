@@ -58,6 +58,7 @@
                                 <br />
                                 <h3><asp:Label ID="Label3" runat="server" Text=<%#Eval("Title") %>></asp:Label></h3>
                                 <asp:Label ID="Label2" runat="server" Text=<%#Eval("Description") %> />
+                                <br />  
                                 <asp:Label ID="Label4" runat="server" Text=<%#Eval("PublishDate") %>></asp:Label>
                             </ItemTemplate>
                             <SeparatorTemplate>

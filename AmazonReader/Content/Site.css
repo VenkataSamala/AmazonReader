@@ -69,3 +69,9 @@ h3, .h3 {
         color: #158cba;
         font-weight: bold;
 }
+
+#EbooksId h3 {
+    font-size: 24px;
+    color: #28b62c;
+    font-weight: bold;
+}
